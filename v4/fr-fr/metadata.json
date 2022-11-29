@@ -87,7 +87,7 @@
   "Categories": [
     {
       "Id": "51fa7728-5658-4a2e-b08e-e004ca0f3b46",
-      "Name": "Parcours n°1",
+      "Name": "Parcours n°1 FR FR",
       "Image": "",
       "TechnologyId": "aa90a736-5b7d-4d9a-8088-4e9c41ff9841",
       "SubjectId": "",
@@ -95,7 +95,7 @@
       "SubCategories": [
         {
           "Id": "5f078eee-488b-4d28-b2a4-2a68a6662db6",
-          "Name": "Test Test Test",
+          "Name": "Test Test Test FR FR",
           "Image": "images/categories/Plan_Site.png",
           "TechnologyId": "aa90a736-5b7d-4d9a-8088-4e9c41ff9841",
           "SubjectId": null,
