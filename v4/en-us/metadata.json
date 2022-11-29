@@ -87,7 +87,7 @@
   "Categories": [
     {
       "Id": "51fa7728-5658-4a2e-b08e-e004ca0f3b46",
-      "Name": "SharePoint Success Site",
+      "Name": "Gros titre",
       "Image": "",
       "TechnologyId": "aa90a736-5b7d-4d9a-8088-4e9c41ff9841",
       "SubjectId": "",
@@ -95,7 +95,7 @@
       "SubCategories": [
         {
           "Id": "5f078eee-488b-4d28-b2a4-2a68a6662db6",
-          "Name": "Plan your site",
+          "Name": "Sous titre",
           "Image": "images/categories/Plan_Site.png",
           "TechnologyId": "aa90a736-5b7d-4d9a-8088-4e9c41ff9841",
           "SubjectId": null,
@@ -104,7 +104,7 @@
         },
         {
           "Id": "35d96c14-6269-4cdf-8ac1-2944bb278860",
-          "Name": "Build your site",
+          "Name": "Build your site EN",
           "Image": "images/categories/Build_Site.png",
           "TechnologyId": "aa90a736-5b7d-4d9a-8088-4e9c41ff9841",
           "SubjectId": null,

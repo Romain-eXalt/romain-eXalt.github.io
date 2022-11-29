@@ -87,7 +87,7 @@
   "Categories": [
     {
       "Id": "51fa7728-5658-4a2e-b08e-e004ca0f3b46",
-      "Name": "Site Réussite SharePoint",
+      "Name": "Parcours n°1",
       "Image": "",
       "TechnologyId": "aa90a736-5b7d-4d9a-8088-4e9c41ff9841",
       "SubjectId": "",
@@ -95,7 +95,7 @@
       "SubCategories": [
         {
           "Id": "5f078eee-488b-4d28-b2a4-2a68a6662db6",
-          "Name": "Planifier votre site",
+          "Name": "Test Test Test",
           "Image": "images/categories/Plan_Site.png",
           "TechnologyId": "aa90a736-5b7d-4d9a-8088-4e9c41ff9841",
           "SubjectId": null,
@@ -139,15 +139,15 @@
     },
     {
       "Id": "27513aaf-fee5-4f27-b924-e31d865e4092",
-      "Name": "Support technique"
+      "Name": "Designeur"
     },
     {
       "Id": "4aa421d1-dc55-4b87-aa63-f1845ae49d98",
-      "Name": "Gestionnaire de modification"
+      "Name": "Product Owner"
     },
     {
       "Id": "4e425c61-28fa-4606-afe8-5df5974ec243",
-      "Name": "Champions/professeur"
+      "Name": "Change Manager"
     },
     {
       "Id": "e43ac038-f77b-4c08-87d1-a623e2b3323e",
